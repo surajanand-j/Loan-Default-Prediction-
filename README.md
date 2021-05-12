@@ -1,0 +1,2 @@
+# Loan-Default-Prediction-
+The project is based on the classification technique (default/non-default) which aims at building a model which can predict the vehicle loan default. Some classification models were tested: Decision Tree, Random Forest, Naïve Bayesian &amp; Logistic Regression. Also, as there is a class imbalance issue in the data (78-22%: Non Defaults-Defaults), the same classification models were tested after resolving the class imbalance by using techniques such as SMOTE (oversampling technique to create synthetic samples) and Resampling .
